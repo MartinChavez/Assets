@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.17555,0,0,1.25487,0.155892,0.216938)">
+        <rect x="-0.133" y="-0.173" width="54.443" height="51.001"/>
+    </g>
+    <g transform="matrix(0.699185,0,0,0.699185,3.46903,12.1717)">
+        <text x="3.032px" y="39.943px" style="font-family:'Bloomsbury-Sans', 'Bloomsbury';font-size:33.047px;fill:white;">LINQ</text>
+    </g>
+</svg>
